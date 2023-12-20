@@ -1,4 +1,4 @@
-## create project by vite
+## project by vite
 
 - `npm create vite@latest`
 - `npm i`
