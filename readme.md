@@ -1,4 +1,6 @@
-## project by vite
+## project boilerplate - js + ThreeJS
+
+create by vite
 
 - `npm create vite@latest`
 - `npm i`
