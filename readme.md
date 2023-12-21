@@ -1,4 +1,4 @@
-## project boilerplate - js + ThreeJS
+## project boilerplate - vite + js + ThreeJS
 
 create by vite
 
