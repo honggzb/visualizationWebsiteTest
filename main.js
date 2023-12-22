@@ -26,7 +26,7 @@ const scene = new THREE.Scene();
 // Load 3D model in GLB format
 const loader = new GLTFLoader();
 let model;
-loader.load('building.glb', (gltf) => {
+loader.load('./models/building.glb', (gltf) => {
     model = gltf.scene;
     model.scale.set(1,1,1);
     model.position.z = -2;
